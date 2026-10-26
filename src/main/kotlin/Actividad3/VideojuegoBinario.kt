@@ -1,0 +1,11 @@
+package Actividad3;
+
+const val TAMANO_ID = Int.SIZE_BYTES
+const val TAMANO_TITULO = 60
+const val TAMANO_GENERO = 20
+const val TAMANO_ANIO = Int.SIZE_BYTES
+const val TAMANO_NOTA = Double.SIZE_BYTES
+const val TAMANO_REGISTRO = TAMANO_ID + TAMANO_TITULO + TAMANO_GENERO + TAMANO_ANIO + TAMANO_NOTA // 96 bytes
+
+
+

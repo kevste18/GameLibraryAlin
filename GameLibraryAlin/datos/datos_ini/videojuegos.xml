@@ -1,0 +1,42 @@
+<videojuegos>
+    <videojuego>
+        <id>1</id>
+        <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+        <genero>Aventura</genero>
+        <anio>2017</anio>
+        <nota>9.5</nota>
+    </videojuego>
+
+    <videojuego>
+        <id>2</id>
+        <titulo>Max Payne 3</titulo>
+        <genero>Accion</genero>
+        <anio>2012</anio>
+        <nota>9.8</nota>
+    </videojuego>
+
+    <videojuego>
+        <id>3</id>
+        <titulo>Uncharted 3</titulo>
+        <genero>Aventura</genero>
+        <anio>2011</anio>
+        <nota>9.2</nota>
+    </videojuego>
+
+    <videojuego>
+        <id>4</id>
+        <titulo>Resident Evil Requiem</titulo>
+        <genero>Terror</genero>
+        <anio>2026</anio>
+        <nota>8.2</nota>
+    </videojuego>
+
+    <videojuego>
+        <id>5</id>
+        <titulo>FC 27</titulo>
+        <genero>Deporte</genero>
+        <anio>2027</anio>
+        <nota>9.0</nota>
+    </videojuego>
+
+</videojuegos>
